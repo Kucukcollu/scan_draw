@@ -1,0 +1,16 @@
+#Turtlebot-3
+- git:
+    local-name: src/depends/
+    uri: https://github.com/ROBOTIS-GIT/turtlebot3.git
+    version: melodic-devel
+
+#Turtlebot-3 messages
+- git:
+    local-name: src/depends/
+    uri: https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
+    version: melodic-devel
+
+#Turtlebot-3 messages
+- git:
+    local-name: src/depends/
+    uri: https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
